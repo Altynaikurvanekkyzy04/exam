@@ -44,7 +44,6 @@ export default function Auth() {
   return (
     <div className="fade-in">
       <div className="page-header">
-        <h1 className="page-title">Авторизация</h1>
         <p className="page-subtitle">Управление сессиями авторизации кошелька</p>
       </div>
       <div style={{ maxWidth: 560 }}>
